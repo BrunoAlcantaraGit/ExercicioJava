@@ -6,7 +6,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         ReajustesSalario reajustesSalario = new ReajustesSalario();
             
-         /*Esse programa tem como finalidade os daods de 4 colaboradores, e aplicar a regra de negocio onde
+         /*Esse programa tem como finalidade coletar informações   de 4 colaboradores, e aplicar a regra de negocio onde
         * aplica aumento progressivo de acordo com a faixa salaria.
         * retorna o metodo toString informando os nomes informados, os salario atual, e o salario com reajuste.
         * */
